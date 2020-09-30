@@ -1,0 +1,1 @@
+This file is where the git assignment will be completed. The point of this git assignment is to create a commit with a conflict and then successfully resolve that conflict. Once resolved (by merging), push to github. 
