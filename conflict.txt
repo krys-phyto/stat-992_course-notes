@@ -3,3 +3,4 @@ This file is where the git assignment will be completed. The point of this git a
 
 where to add text: below this line on line 5.
 Hello! Conflict can be made easier with good communication.
+Stay calm, be mindful, and direct. Problems inevitably arise. 
